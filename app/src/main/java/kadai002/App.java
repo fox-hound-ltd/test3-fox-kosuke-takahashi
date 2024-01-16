@@ -4,6 +4,7 @@
 package kadai002;
 
 public class App {
+    //
     public String getGreeting() {
         return "Hello World!";
     }
